@@ -5,7 +5,8 @@ This repository contains the backend for the ewapps_aws_rds, which provides an A
 We will provide some clients
 
 * Windows https://www.erpware.de/tools/ewapps_aws_rds/
-* Android (comming soon)
+* Android https://play.google.com/store/apps/details?id=co.erpware.ewapps_aws_rds
+
 
 ## setup - with terraform
 
