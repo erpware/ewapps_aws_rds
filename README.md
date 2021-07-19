@@ -1,5 +1,7 @@
 # ewapps_aws_rds
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P9PSQ7LZNTNB4)
+
 This repository contains the backend for the ewapps_aws_rds, which provides an AWS API Gateway to list, start and stop RDS instances (and clusters).
 
 We will provide some clients
